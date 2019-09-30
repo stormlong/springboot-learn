@@ -18,8 +18,4 @@ public class LearnspringbootApplication {
 		return "你好";
 	}
 
-	
-	
-	
-
 }
