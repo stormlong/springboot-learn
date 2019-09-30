@@ -17,4 +17,6 @@ public class LearnspringbootApplication {
 	public String hello(){
 		return "你好";
 	}
+
+
 }
