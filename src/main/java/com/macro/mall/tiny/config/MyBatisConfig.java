@@ -10,6 +10,6 @@ import org.springframework.context.annotation.Configuration;
  * @Date: 2019/10/1
  */
 @Configuration
-@MapperScan("com.macro.mall.tiny.mbg.mapper")
+@MapperScan({"com.macro.mall.tiny.mbg.mapper","com.macro.mall.tiny.dao"})
 public class MyBatisConfig {
 }
